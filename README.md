@@ -58,4 +58,4 @@ Tested correlation between price and two size-related variables using Pearson's 
 
 ## Author
 
-*Add your name / student ID here*
+*Makavana Utsav/25174056*
